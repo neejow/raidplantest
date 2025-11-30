@@ -1,5 +1,5 @@
 {
-  "nextId": 1151,
+  "nextId": 1273,
   "arena": {
     "isSpoilerFree": true,
     "shape": "circle",
@@ -13,7 +13,7 @@
     "ticks": {
       "type": "none"
     },
-    "backgroundOpacity": 70
+    "backgroundOpacity": 80
   },
   "steps": [
     {
@@ -165,12 +165,12 @@
           "id": 414
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark 3",
           "image": "/marker/waymark_3.png",
           "shape": "square",
           "color": "#65b3ea",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -179,12 +179,12 @@
           "id": 852
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark 4",
           "image": "/marker/waymark_4.png",
           "shape": "square",
           "color": "#e291e6",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -193,12 +193,12 @@
           "id": 853
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark B",
           "image": "/marker/waymark_b.png",
           "shape": "circle",
           "color": "#e1dc5d",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -207,12 +207,12 @@
           "id": 854
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark C",
           "image": "/marker/waymark_c.png",
           "shape": "circle",
           "color": "#65b3ea",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -221,12 +221,12 @@
           "id": 855
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark D",
           "image": "/marker/waymark_d.png",
           "shape": "circle",
           "color": "#e291e6",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -235,29 +235,29 @@
           "id": 856
         },
         {
+          "stroke": "#000000",
+          "style": "outline",
           "type": "text",
           "align": "center",
           "fontSize": 50,
           "color": "#ffc800",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "Diamond Frost",
-          "stroke": "#000000",
           "x": 0,
           "y": 215,
           "id": 876
         },
         {
+          "stroke": "#000000",
+          "style": "outline",
           "type": "text",
           "align": "left",
           "fontSize": 20,
           "color": "#ffc800",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "DPS Marker Prio for AoE\n\nMelia always 3\nRadella always 4\nHin/Archer flex\n\nWe'll use this prio for all mechs that require it\n(Light Rampant, Soft Enrage)",
-          "stroke": "#000000",
           "x": 69,
           "y": -219,
           "id": 879
@@ -493,12 +493,12 @@
           "id": 899
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark 3",
           "image": "/marker/waymark_3.png",
           "shape": "square",
           "color": "#65b3ea",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -507,12 +507,12 @@
           "id": 900
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark 4",
           "image": "/marker/waymark_4.png",
           "shape": "square",
           "color": "#e291e6",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -521,12 +521,12 @@
           "id": 901
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark B",
           "image": "/marker/waymark_b.png",
           "shape": "circle",
           "color": "#e1dc5d",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -535,12 +535,12 @@
           "id": 902
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark C",
           "image": "/marker/waymark_c.png",
           "shape": "circle",
           "color": "#65b3ea",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -549,12 +549,12 @@
           "id": 903
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark D",
           "image": "/marker/waymark_d.png",
           "shape": "circle",
           "color": "#e291e6",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -563,15 +563,15 @@
           "id": 904
         },
         {
+          "stroke": "#000000",
+          "style": "outline",
           "type": "text",
           "align": "center",
           "fontSize": 50,
           "color": "#ffc800",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "Diamond Frost",
-          "stroke": "#000000",
           "x": 0,
           "y": 215,
           "id": 905
@@ -679,17 +679,17 @@
           "id": 924
         },
         {
+          "stroke": "#000000",
+          "style": "outline",
           "type": "text",
           "align": "left",
-          "fontSize": 20,
+          "fontSize": 25,
           "color": "#ffc800",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "The first outside telegraphs will be the safespots\nThey are always E+W or N+S\n   Ranges get KBd S or E\n   Melees get KBd N or W\n   depending on safespots",
-          "stroke": "#000000",
-          "x": 62,
-          "y": -225,
+          "x": 56,
+          "y": -245,
           "id": 925
         },
         {
@@ -719,35 +719,11 @@
           "opacity": 100,
           "width": 30,
           "height": 83,
-          "rotation": -157,
-          "arrowEnd": true,
-          "x": 59,
-          "y": -78,
-          "id": 928
-        },
-        {
-          "type": "arrow",
-          "color": "#ff0000",
-          "opacity": 100,
-          "width": 30,
-          "height": 83,
           "rotation": -90,
           "x": -123,
           "y": -7,
           "id": 929,
           "arrowEnd": true
-        },
-        {
-          "type": "arrow",
-          "color": "#ff0000",
-          "opacity": 100,
-          "width": 30,
-          "height": 83,
-          "rotation": 6,
-          "arrowEnd": true,
-          "x": -31,
-          "y": 75,
-          "id": 930
         }
       ]
     },
@@ -900,12 +876,12 @@
           "id": 941
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark 3",
           "image": "/marker/waymark_3.png",
           "shape": "square",
           "color": "#65b3ea",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -914,12 +890,12 @@
           "id": 942
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark 4",
           "image": "/marker/waymark_4.png",
           "shape": "square",
           "color": "#e291e6",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -928,12 +904,12 @@
           "id": 943
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark B",
           "image": "/marker/waymark_b.png",
           "shape": "circle",
           "color": "#e1dc5d",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -942,12 +918,12 @@
           "id": 944
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark C",
           "image": "/marker/waymark_c.png",
           "shape": "circle",
           "color": "#65b3ea",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -956,12 +932,12 @@
           "id": 945
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark D",
           "image": "/marker/waymark_d.png",
           "shape": "circle",
           "color": "#e291e6",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -970,15 +946,15 @@
           "id": 946
         },
         {
+          "stroke": "#000000",
+          "style": "outline",
           "type": "text",
           "align": "center",
           "fontSize": 50,
           "color": "#ffc800",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "Diamond Frost",
-          "stroke": "#000000",
           "x": 0,
           "y": 215,
           "id": 947
@@ -1032,15 +1008,15 @@
           "id": 957
         },
         {
+          "stroke": "#000000",
+          "style": "outline",
           "type": "text",
           "align": "left",
           "fontSize": 30,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "Melees coordinate their baits \nfor uptime if needed",
-          "stroke": "#000000",
           "x": -176,
           "y": 83,
           "id": 958
@@ -1264,12 +1240,12 @@
           "id": 1012
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark 3",
           "image": "/marker/waymark_3.png",
           "shape": "square",
           "color": "#65b3ea",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -1278,12 +1254,12 @@
           "id": 1013
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark 4",
           "image": "/marker/waymark_4.png",
           "shape": "square",
           "color": "#e291e6",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -1292,12 +1268,12 @@
           "id": 1014
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark B",
           "image": "/marker/waymark_b.png",
           "shape": "circle",
           "color": "#e1dc5d",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -1306,12 +1282,12 @@
           "id": 1015
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark C",
           "image": "/marker/waymark_c.png",
           "shape": "circle",
           "color": "#65b3ea",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -1320,12 +1296,12 @@
           "id": 1016
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark D",
           "image": "/marker/waymark_d.png",
           "shape": "circle",
           "color": "#e291e6",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -1334,15 +1310,15 @@
           "id": 1017
         },
         {
+          "stroke": "#000000",
+          "style": "outline",
           "type": "text",
           "align": "center",
           "fontSize": 50,
           "color": "#ffc800",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "Light Rampant - Towers",
-          "stroke": "#000000",
           "x": 0,
           "y": 220,
           "id": 1018
@@ -1402,26 +1378,26 @@
           "id": 1030
         },
         {
+          "stroke": "#000000",
+          "style": "outline",
           "type": "text",
           "align": "left",
           "fontSize": 30,
           "color": "#ffc800",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "Initial Tower positions \nsame as Diamond Frost\nApply prio if needed\nIdentified by debuff",
-          "stroke": "#000000",
           "x": 24,
           "y": -199,
           "id": 1031
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215239_hr1.tex?format=png",
           "width": 53,
           "height": 70,
           "rotation": 0,
-          "opacity": 100,
           "name": "Refulgent Chain",
           "iconId": 215239,
           "maxStacks": 0,
@@ -1430,12 +1406,12 @@
           "id": 1032
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215239_hr1.tex?format=png",
           "width": 53,
           "height": 70,
           "rotation": 0,
-          "opacity": 100,
           "name": "Refulgent Chain",
           "iconId": 215239,
           "maxStacks": 0,
@@ -1444,12 +1420,12 @@
           "id": 1033
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215239_hr1.tex?format=png",
           "width": 21,
           "height": 27,
           "rotation": 0,
-          "opacity": 100,
           "name": "Refulgent Chain",
           "iconId": 215239,
           "maxStacks": 0,
@@ -1458,12 +1434,12 @@
           "id": 1035
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215239_hr1.tex?format=png",
           "width": 21,
           "height": 27,
           "rotation": 0,
-          "opacity": 100,
           "name": "Refulgent Chain",
           "iconId": 215239,
           "maxStacks": 0,
@@ -1472,12 +1448,12 @@
           "id": 1036
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215239_hr1.tex?format=png",
           "width": 21,
           "height": 27,
           "rotation": 0,
-          "opacity": 100,
           "name": "Refulgent Chain",
           "iconId": 215239,
           "maxStacks": 0,
@@ -1486,12 +1462,12 @@
           "id": 1037
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215239_hr1.tex?format=png",
           "width": 21,
           "height": 27,
           "rotation": 0,
-          "opacity": 100,
           "name": "Refulgent Chain",
           "iconId": 215239,
           "maxStacks": 0,
@@ -1500,12 +1476,12 @@
           "id": 1038
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215239_hr1.tex?format=png",
           "width": 21,
           "height": 27,
           "rotation": 0,
-          "opacity": 100,
           "name": "Refulgent Chain",
           "iconId": 215239,
           "maxStacks": 0,
@@ -1514,12 +1490,12 @@
           "id": 1039
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215239_hr1.tex?format=png",
           "width": 21,
           "height": 27,
           "rotation": 0,
-          "opacity": 100,
           "name": "Refulgent Chain",
           "iconId": 215239,
           "maxStacks": 0,
@@ -1528,12 +1504,12 @@
           "id": 1040
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215239_hr1.tex?format=png",
           "width": 21,
           "height": 27,
           "rotation": 0,
-          "opacity": 100,
           "name": "Refulgent Chain",
           "iconId": 215239,
           "maxStacks": 0,
@@ -1542,12 +1518,12 @@
           "id": 1041
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215239_hr1.tex?format=png",
           "width": 21,
           "height": 27,
           "rotation": 0,
-          "opacity": 100,
           "name": "Refulgent Chain",
           "iconId": 215239,
           "maxStacks": 0,
@@ -1576,22 +1552,22 @@
         {
           "type": "tether",
           "tether": "line",
-          "startId": 1045,
-          "endId": 1044,
+          "startId": 1044,
+          "endId": 1047,
           "width": 6,
           "color": "#fc972b",
           "opacity": 80,
-          "id": 1076
+          "id": 1187
         },
         {
           "type": "tether",
           "tether": "line",
           "startId": 1044,
-          "endId": 1048,
+          "endId": 1045,
           "width": 6,
           "color": "#fc972b",
           "opacity": 80,
-          "id": 1077
+          "id": 1189
         },
         {
           "opacity": 100,
@@ -1609,12 +1585,12 @@
         {
           "type": "tether",
           "tether": "line",
-          "startId": 1045,
-          "endId": 1047,
+          "startId": 1048,
+          "endId": 1045,
           "width": 6,
           "color": "#fc972b",
           "opacity": 80,
-          "id": 1079
+          "id": 1188
         },
         {
           "opacity": 100,
@@ -1694,12 +1670,12 @@
           "id": 1051
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark 3",
           "image": "/marker/waymark_3.png",
           "shape": "square",
           "color": "#65b3ea",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -1708,12 +1684,12 @@
           "id": 1054
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark 4",
           "image": "/marker/waymark_4.png",
           "shape": "square",
           "color": "#e291e6",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -1722,12 +1698,12 @@
           "id": 1055
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark B",
           "image": "/marker/waymark_b.png",
           "shape": "circle",
           "color": "#e1dc5d",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -1736,12 +1712,12 @@
           "id": 1056
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark C",
           "image": "/marker/waymark_c.png",
           "shape": "circle",
           "color": "#65b3ea",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -1750,12 +1726,12 @@
           "id": 1057
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark D",
           "image": "/marker/waymark_d.png",
           "shape": "circle",
           "color": "#e291e6",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -1764,17 +1740,17 @@
           "id": 1058
         },
         {
+          "stroke": "#000000",
+          "style": "outline",
           "type": "text",
           "align": "center",
           "fontSize": 50,
           "color": "#ffc800",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
-          "text": "Light Rampant - Towers",
-          "stroke": "#000000",
-          "x": 0,
-          "y": 220,
+          "text": "Light Rampant - Towers 1",
+          "x": 14,
+          "y": 298,
           "id": 1059
         },
         {
@@ -1785,7 +1761,7 @@
           "opacity": 100,
           "radius": 72,
           "status": [],
-          "rotation": 0,
+          "rotation": 180,
           "ring": "dir",
           "x": 1,
           "y": -1,
@@ -1832,18 +1808,31 @@
           "id": 1064
         },
         {
+          "stroke": "#000000",
+          "style": "outline",
           "type": "text",
           "align": "left",
           "fontSize": 30,
           "color": "#ffc800",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
-          "text": "Tethers go out randomly\nGoal is to form a Bow Tie shape",
-          "stroke": "#000000",
-          "x": 33,
-          "y": -206,
+          "text": "Tethers go out randomly\nGoal is to form a Bow Tie shape\nSoak your Towers in the center/max melee",
+          "x": 42,
+          "y": 207,
           "id": 1065
+        },
+        {
+          "type": "party",
+          "image": "https://i.imgur.com/cTakdaj.png",
+          "name": "Healer",
+          "status": [],
+          "width": 281,
+          "height": 261,
+          "opacity": 100,
+          "rotation": 0,
+          "x": 249,
+          "y": -21,
+          "id": 1152
         }
       ]
     },
@@ -1861,27 +1850,27 @@
           "rotation": 0,
           "x": 0,
           "y": 277,
-          "id": 1081
+          "id": 1214
         },
         {
           "type": "tether",
           "tether": "line",
-          "startId": 1086,
-          "endId": 1084,
+          "startId": 1217,
+          "endId": 1221,
           "width": 6,
           "color": "#fc972b",
           "opacity": 80,
-          "id": 1082
+          "id": 1215
         },
         {
           "type": "tether",
           "tether": "line",
-          "startId": 1084,
-          "endId": 1089,
+          "startId": 1217,
+          "endId": 1219,
           "width": 6,
           "color": "#fc972b",
           "opacity": 80,
-          "id": 1083
+          "id": 1216
         },
         {
           "opacity": 100,
@@ -1892,19 +1881,19 @@
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "x": -210,
-          "y": 180,
-          "id": 1084
+          "x": -27,
+          "y": 110,
+          "id": 1217
         },
         {
           "type": "tether",
           "tether": "line",
-          "startId": 1086,
-          "endId": 1088,
+          "startId": 1222,
+          "endId": 1219,
           "width": 6,
           "color": "#fc972b",
           "opacity": 80,
-          "id": 1085
+          "id": 1218
         },
         {
           "opacity": 100,
@@ -1915,19 +1904,19 @@
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "x": -211,
-          "y": 50,
-          "id": 1086
+          "x": -31,
+          "y": -93,
+          "id": 1219
         },
         {
           "type": "tether",
           "tether": "line",
-          "startId": 1088,
-          "endId": 1089,
+          "startId": 1221,
+          "endId": 1222,
           "width": 6,
           "color": "#fc972b",
           "opacity": 80,
-          "id": 1087
+          "id": 1220
         },
         {
           "opacity": 100,
@@ -1938,9 +1927,9 @@
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "x": -101,
-          "y": 48,
-          "id": 1088
+          "x": 27,
+          "y": -92,
+          "id": 1221
         },
         {
           "opacity": 100,
@@ -1951,9 +1940,9 @@
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "x": -102,
-          "y": 179,
-          "id": 1089
+          "x": 25,
+          "y": 111,
+          "id": 1222
         },
         {
           "opacity": 100,
@@ -1967,7 +1956,7 @@
           "rotation": 0,
           "x": -85,
           "y": 81,
-          "id": 1090
+          "id": 1223
         },
         {
           "opacity": 100,
@@ -1981,91 +1970,91 @@
           "rotation": 0,
           "x": 85,
           "y": 82,
-          "id": 1091
+          "id": 1224
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark 3",
           "image": "/marker/waymark_3.png",
           "shape": "square",
           "color": "#65b3ea",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
           "x": 79,
           "y": -87,
-          "id": 1092
+          "id": 1225
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark 4",
           "image": "/marker/waymark_4.png",
           "shape": "square",
           "color": "#e291e6",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
           "x": -84,
           "y": -83,
-          "id": 1093
+          "id": 1226
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark B",
           "image": "/marker/waymark_b.png",
           "shape": "circle",
           "color": "#e1dc5d",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
           "x": 277,
           "y": -1,
-          "id": 1094
+          "id": 1227
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark C",
           "image": "/marker/waymark_c.png",
           "shape": "circle",
           "color": "#65b3ea",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
           "x": 1,
           "y": -275,
-          "id": 1095
+          "id": 1228
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark D",
           "image": "/marker/waymark_d.png",
           "shape": "circle",
           "color": "#e291e6",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
           "x": -278,
           "y": 1,
-          "id": 1096
+          "id": 1229
         },
         {
+          "stroke": "#000000",
+          "style": "outline",
           "type": "text",
           "align": "center",
           "fontSize": 50,
           "color": "#ffc800",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
-          "text": "How to solve Tethers",
-          "stroke": "#000000",
-          "x": -23,
-          "y": 255,
-          "id": 1097
+          "text": "Light Rampant - Towers 2",
+          "x": 14,
+          "y": 298,
+          "id": 1230
         },
         {
           "type": "enemy",
@@ -2075,11 +2064,11 @@
           "opacity": 100,
           "radius": 72,
           "status": [],
-          "rotation": 0,
+          "rotation": 180,
           "ring": "dir",
           "x": 1,
           "y": -1,
-          "id": 1098
+          "id": 1231
         },
         {
           "type": "tower",
@@ -2087,9 +2076,9 @@
           "opacity": 95,
           "radius": 59,
           "count": 1,
-          "x": -75,
-          "y": 75,
-          "id": 1099
+          "x": -1,
+          "y": 122,
+          "id": 1233
         },
         {
           "type": "tower",
@@ -2097,427 +2086,389 @@
           "opacity": 95,
           "radius": 59,
           "count": 1,
-          "x": 75,
-          "y": 75,
-          "id": 1100
+          "x": -1,
+          "y": -70,
+          "id": 1234
         },
         {
-          "type": "tower",
-          "color": "#bae3ff",
-          "opacity": 95,
-          "radius": 59,
-          "count": 1,
-          "x": 75,
-          "y": -75,
-          "id": 1101
-        },
-        {
-          "type": "tower",
-          "color": "#bae3ff",
-          "opacity": 95,
-          "radius": 59,
-          "count": 1,
-          "x": -73,
-          "y": -77,
-          "id": 1102
-        },
-        {
-          "type": "rect",
-          "color": "#000000",
+          "stroke": "#000000",
+          "style": "outline",
+          "type": "text",
+          "align": "left",
+          "fontSize": 30,
+          "color": "#ffc800",
           "opacity": 100,
-          "width": 603,
-          "height": 606,
+          "rotation": 0,
+          "text": "2-Player Towers spawn N/S\nRotate to your respective tower\nBe mindful of Orbs crossing through the center",
+          "x": 55,
+          "y": 210,
+          "id": 1236
+        },
+        {
+          "type": "circle",
+          "color": "#ffffff",
+          "opacity": 100,
+          "radius": 25,
+          "x": -42,
+          "y": 60,
+          "id": 1238
+        },
+        {
+          "type": "circle",
+          "color": "#ffffff",
+          "opacity": 100,
+          "radius": 25,
+          "x": 51,
+          "y": -14,
+          "id": 1239
+        },
+        {
+          "type": "circle",
+          "color": "#ffffff",
+          "opacity": 100,
+          "radius": 25,
+          "x": 37,
+          "y": 44,
+          "id": 1240
+        },
+        {
+          "type": "circle",
+          "color": "#ffffff",
+          "opacity": 100,
+          "radius": 25,
+          "x": -49,
+          "y": -1,
+          "id": 1241
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "opacity": 100,
+          "type": "marker",
+          "name": "Waymark A",
+          "image": "/marker/waymark_a.png",
+          "shape": "circle",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
           "rotation": 0,
           "x": 0,
-          "y": -2,
-          "id": 1104
+          "y": 277,
+          "id": 1242
         },
         {
-          "type": "arrow",
-          "color": "#ff0000",
+          "type": "tether",
+          "tether": "line",
+          "startId": 1245,
+          "endId": 1249,
+          "width": 6,
+          "color": "#fc972b",
+          "opacity": 80,
+          "id": 1243
+        },
+        {
+          "type": "tether",
+          "tether": "line",
+          "startId": 1245,
+          "endId": 1247,
+          "width": 6,
+          "color": "#fc972b",
+          "opacity": 80,
+          "id": 1244
+        },
+        {
           "opacity": 100,
-          "width": 30,
-          "height": 64,
+          "type": "party",
+          "image": "https://i.imgur.com/VMB2Vl5.png",
+          "name": "Hiko",
+          "status": [],
+          "width": 40,
+          "height": 40,
           "rotation": 0,
-          "arrowEnd": true,
-          "x": -227,
-          "y": 102,
-          "id": 1105
+          "x": -27,
+          "y": 61,
+          "id": 1245
         },
         {
-          "type": "arrow",
+          "type": "tether",
+          "tether": "line",
+          "startId": 1250,
+          "endId": 1247,
+          "width": 6,
+          "color": "#fc972b",
+          "opacity": 80,
+          "id": 1246
+        },
+        {
+          "opacity": 100,
+          "type": "party",
+          "image": "https://i.imgur.com/6bMRwiM.png",
+          "name": "Rad",
+          "status": [],
+          "width": 40,
+          "height": 40,
+          "rotation": 0,
+          "x": -30,
+          "y": -57,
+          "id": 1247
+        },
+        {
+          "type": "tether",
+          "tether": "line",
+          "startId": 1249,
+          "endId": 1250,
+          "width": 6,
+          "color": "#fc972b",
+          "opacity": 80,
+          "id": 1248
+        },
+        {
+          "opacity": 100,
+          "type": "party",
+          "image": "https://i.imgur.com/vKEozrY.png",
+          "name": "Mel",
+          "status": [],
+          "width": 40,
+          "height": 40,
+          "rotation": 0,
+          "x": 26,
+          "y": -56,
+          "id": 1249
+        },
+        {
+          "opacity": 100,
+          "type": "party",
+          "image": "https://i.imgur.com/VL6BFx2.png",
+          "name": "Nico",
+          "status": [],
+          "width": 40,
+          "height": 40,
+          "rotation": 0,
+          "x": 33,
+          "y": 61,
+          "id": 1250
+        },
+        {
+          "opacity": 100,
+          "type": "marker",
+          "name": "Waymark 1",
+          "image": "/marker/waymark_1.png",
+          "shape": "square",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -85,
+          "y": 81,
+          "id": 1251
+        },
+        {
+          "opacity": 100,
+          "type": "marker",
+          "name": "Waymark 2",
+          "image": "/marker/waymark_2.png",
+          "shape": "square",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 85,
+          "y": 82,
+          "id": 1252
+        },
+        {
+          "opacity": 100,
+          "type": "marker",
+          "name": "Waymark 3",
+          "image": "/marker/waymark_3.png",
+          "shape": "square",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 79,
+          "y": -87,
+          "id": 1253
+        },
+        {
+          "opacity": 100,
+          "type": "marker",
+          "name": "Waymark 4",
+          "image": "/marker/waymark_4.png",
+          "shape": "square",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -84,
+          "y": -83,
+          "id": 1254
+        },
+        {
+          "opacity": 100,
+          "type": "marker",
+          "name": "Waymark B",
+          "image": "/marker/waymark_b.png",
+          "shape": "circle",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 277,
+          "y": -1,
+          "id": 1255
+        },
+        {
+          "opacity": 100,
+          "type": "marker",
+          "name": "Waymark C",
+          "image": "/marker/waymark_c.png",
+          "shape": "circle",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 1,
+          "y": -275,
+          "id": 1256
+        },
+        {
+          "opacity": 100,
+          "type": "marker",
+          "name": "Waymark D",
+          "image": "/marker/waymark_d.png",
+          "shape": "circle",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -278,
+          "y": 1,
+          "id": 1257
+        },
+        {
+          "stroke": "#000000",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 50,
+          "color": "#ffc800",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Light Rampant - Towers 3",
+          "x": 14,
+          "y": 298,
+          "id": 1258
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_small.png",
+          "name": "",
           "color": "#ff0000",
           "opacity": 100,
-          "width": 30,
-          "height": 64,
+          "radius": 72,
+          "status": [],
           "rotation": 180,
-          "arrowEnd": true,
-          "x": -195,
-          "y": 127,
-          "id": 1106
+          "ring": "dir",
+          "x": 1,
+          "y": -1,
+          "id": 1259
         },
         {
-          "type": "arrow",
+          "stroke": "#000000",
+          "style": "outline",
+          "type": "text",
+          "align": "left",
+          "fontSize": 30,
+          "color": "#ffc800",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Step onto her Hitbox Ring\nBait your Proteans",
+          "x": -36,
+          "y": 235,
+          "id": 1262
+        },
+        {
+          "type": "circle",
           "color": "#ffffff",
           "opacity": 100,
-          "width": 30,
-          "height": 64,
-          "rotation": 90,
-          "arrowEnd": true,
-          "x": -28,
-          "y": 116,
-          "id": 1107
-        },
-        {
-          "type": "tether",
-          "tether": "line",
-          "startId": 1110,
-          "endId": 1115,
-          "width": 6,
-          "color": "#fc972b",
-          "opacity": 80,
-          "id": 1132
-        },
-        {
-          "type": "tether",
-          "tether": "line",
-          "startId": 1110,
-          "endId": 1114,
-          "width": 6,
-          "color": "#fc972b",
-          "opacity": 80,
-          "id": 1134
-        },
-        {
-          "opacity": 100,
-          "type": "party",
-          "image": "https://i.imgur.com/VMB2Vl5.png",
-          "name": "Hiko",
-          "status": [],
-          "width": 40,
-          "height": 40,
-          "rotation": 0,
-          "x": -225,
-          "y": -65,
-          "id": 1110
-        },
-        {
-          "type": "tether",
-          "tether": "line",
-          "startId": 1112,
-          "endId": 1115,
-          "width": 6,
-          "color": "#fc972b",
-          "opacity": 80,
-          "id": 1133
-        },
-        {
-          "type": "tether",
-          "tether": "line",
-          "startId": 1112,
-          "endId": 1114,
-          "width": 6,
-          "color": "#fc972b",
-          "opacity": 80,
-          "id": 1135
-        },
-        {
-          "opacity": 100,
-          "type": "party",
-          "image": "https://i.imgur.com/6bMRwiM.png",
-          "name": "Rad",
-          "status": [],
-          "width": 40,
-          "height": 40,
-          "rotation": 0,
-          "x": -225,
-          "y": -183,
-          "id": 1112
-        },
-        {
-          "opacity": 100,
-          "type": "party",
-          "image": "https://i.imgur.com/vKEozrY.png",
-          "name": "Mel",
-          "status": [],
-          "width": 40,
-          "height": 40,
-          "rotation": 0,
-          "x": -98,
-          "y": -186,
-          "id": 1114
-        },
-        {
-          "opacity": 100,
-          "type": "party",
-          "image": "https://i.imgur.com/VL6BFx2.png",
-          "name": "Nico",
-          "status": [],
-          "width": 40,
-          "height": 40,
-          "rotation": 0,
-          "x": -99,
-          "y": -69,
-          "id": 1115
-        },
-        {
-          "type": "tether",
-          "tether": "line",
-          "startId": 1128,
-          "endId": 1126,
-          "width": 6,
-          "color": "#fc972b",
-          "opacity": 80,
-          "id": 1124
-        },
-        {
-          "type": "tether",
-          "tether": "line",
-          "startId": 1126,
-          "endId": 1131,
-          "width": 6,
-          "color": "#fc972b",
-          "opacity": 80,
-          "id": 1125
-        },
-        {
-          "opacity": 100,
-          "type": "party",
-          "image": "https://i.imgur.com/VMB2Vl5.png",
-          "name": "Hiko",
-          "status": [],
-          "width": 40,
-          "height": 40,
-          "rotation": 0,
-          "x": 61,
-          "y": 45,
-          "id": 1126
-        },
-        {
-          "type": "tether",
-          "tether": "line",
-          "startId": 1128,
-          "endId": 1130,
-          "width": 6,
-          "color": "#fc972b",
-          "opacity": 80,
-          "id": 1127
-        },
-        {
-          "opacity": 100,
-          "type": "party",
-          "image": "https://i.imgur.com/6bMRwiM.png",
-          "name": "Rad",
-          "status": [],
-          "width": 40,
-          "height": 40,
-          "rotation": 0,
-          "x": 61,
-          "y": 174,
-          "id": 1128
-        },
-        {
-          "type": "tether",
-          "tether": "line",
-          "startId": 1130,
-          "endId": 1131,
-          "width": 6,
-          "color": "#fc972b",
-          "opacity": 80,
-          "id": 1129
-        },
-        {
-          "opacity": 100,
-          "type": "party",
-          "image": "https://i.imgur.com/vKEozrY.png",
-          "name": "Mel",
-          "status": [],
-          "width": 40,
-          "height": 40,
-          "rotation": 0,
-          "x": 171,
-          "y": 45,
-          "id": 1130
-        },
-        {
-          "opacity": 100,
-          "type": "party",
-          "image": "https://i.imgur.com/VL6BFx2.png",
-          "name": "Nico",
-          "status": [],
-          "width": 40,
-          "height": 40,
-          "rotation": 0,
-          "x": 170,
-          "y": 176,
-          "id": 1131
-        },
-        {
-          "type": "arrow",
-          "color": "#ff0000",
-          "opacity": 100,
-          "width": 30,
-          "height": 88,
-          "rotation": 135,
-          "arrowEnd": true,
-          "x": -186,
-          "y": -121,
-          "id": 1136
-        },
-        {
-          "type": "arrow",
-          "color": "#ff0000",
-          "opacity": 100,
-          "width": 30,
-          "height": 88,
-          "rotation": -45,
-          "arrowEnd": true,
+          "radius": 25,
           "x": -134,
-          "y": -129,
-          "id": 1138
+          "y": 81,
+          "id": 1263
         },
         {
-          "type": "tether",
-          "tether": "line",
-          "startId": 1141,
-          "endId": 1146,
-          "width": 6,
-          "color": "#fc972b",
-          "opacity": 80,
-          "id": 1139
-        },
-        {
-          "type": "tether",
-          "tether": "line",
-          "startId": 1141,
-          "endId": 1145,
-          "width": 6,
-          "color": "#fc972b",
-          "opacity": 80,
-          "id": 1140
-        },
-        {
-          "opacity": 100,
-          "type": "party",
-          "image": "https://i.imgur.com/VMB2Vl5.png",
-          "name": "Hiko",
-          "status": [],
-          "width": 40,
-          "height": 40,
-          "rotation": 0,
-          "x": 203,
-          "y": -191,
-          "id": 1141
-        },
-        {
-          "type": "tether",
-          "tether": "line",
-          "startId": 1144,
-          "endId": 1146,
-          "width": 6,
-          "color": "#fc972b",
-          "opacity": 80,
-          "id": 1142
-        },
-        {
-          "type": "tether",
-          "tether": "line",
-          "startId": 1144,
-          "endId": 1145,
-          "width": 6,
-          "color": "#fc972b",
-          "opacity": 80,
-          "id": 1143
-        },
-        {
-          "opacity": 100,
-          "type": "party",
-          "image": "https://i.imgur.com/6bMRwiM.png",
-          "name": "Rad",
-          "status": [],
-          "width": 40,
-          "height": 40,
-          "rotation": 0,
-          "x": 77,
-          "y": -190,
-          "id": 1144
-        },
-        {
-          "opacity": 100,
-          "type": "party",
-          "image": "https://i.imgur.com/vKEozrY.png",
-          "name": "Mel",
-          "status": [],
-          "width": 40,
-          "height": 40,
-          "rotation": 0,
-          "x": 77,
-          "y": -53,
-          "id": 1145
-        },
-        {
-          "opacity": 100,
-          "type": "party",
-          "image": "https://i.imgur.com/VL6BFx2.png",
-          "name": "Nico",
-          "status": [],
-          "width": 40,
-          "height": 40,
-          "rotation": 0,
-          "x": 205,
-          "y": -49,
-          "id": 1146
-        },
-        {
-          "type": "arrow",
+          "type": "circle",
           "color": "#ffffff",
           "opacity": 100,
-          "width": 30,
-          "height": 64,
-          "rotation": 90,
-          "arrowEnd": true,
-          "x": -15,
-          "y": -138,
-          "id": 1147
+          "radius": 25,
+          "x": 144,
+          "y": -48,
+          "id": 1264
         },
         {
-          "type": "text",
-          "align": "center",
-          "fontSize": 15,
+          "type": "circle",
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
-          "rotation": 0,
-          "text": "If Square\nT and left DPS swap",
-          "stroke": "#40352c",
-          "x": -24,
-          "y": 147,
-          "id": 1148
+          "radius": 25,
+          "x": 157,
+          "y": 71,
+          "id": 1265
         },
         {
-          "type": "text",
-          "align": "center",
-          "fontSize": 15,
+          "type": "circle",
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
-          "rotation": 0,
-          "text": "If Hourglass\nT and right DPS swap",
-          "stroke": "#40352c",
-          "x": -16,
-          "y": -101,
-          "id": 1149
+          "radius": 25,
+          "x": -137,
+          "y": -36,
+          "id": 1266
         },
         {
-          "type": "line",
-          "color": "#ffffff",
-          "opacity": 100,
-          "width": 10,
-          "length": 604,
-          "rotation": 90,
-          "x": -303,
-          "y": -4,
-          "id": 1150
+          "type": "triangle",
+          "color": "#fc972b",
+          "opacity": 60,
+          "width": 255,
+          "height": 283,
+          "rotation": 25,
+          "x": -76,
+          "y": -171,
+          "id": 1267
+        },
+        {
+          "type": "triangle",
+          "color": "#fc972b",
+          "opacity": 60,
+          "width": 255,
+          "height": 283,
+          "rotation": -28,
+          "x": 85,
+          "y": -170,
+          "id": 1270
+        },
+        {
+          "type": "triangle",
+          "color": "#fc972b",
+          "opacity": 60,
+          "width": 255,
+          "height": 283,
+          "rotation": -150,
+          "x": 90,
+          "y": 154,
+          "id": 1271
+        },
+        {
+          "type": "triangle",
+          "color": "#fc972b",
+          "opacity": 60,
+          "width": 255,
+          "height": 283,
+          "rotation": 161,
+          "x": -67,
+          "y": 178,
+          "id": 1272
         }
       ]
     }
